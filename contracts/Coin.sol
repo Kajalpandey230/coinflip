@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.0;
+pragma solidity ^0.8.9;
 
 contract CoinFlip {
     event CoinFlipped(address player, uint256 betAmount, bool won);

@@ -1,7 +1,9 @@
+require("@matterlabs/hardhat-zksync-solc");
+
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
   solidity: {
-    version: "0.8.0",
+    version: "0.8.17",
     defaultNetwork: "goerli",
     networks: {
       hardhat: {},
