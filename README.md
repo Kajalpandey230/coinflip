@@ -1,27 +1,6 @@
 <div align="center">
-<h1><strong> CoinFlip - Double up your ETH! </strong></h1>
-
+<h1><strong>CoinFlip</strong></h1>
 </div>
-
-![Preview](./public/images/preview.gif)
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [Updates](#updates)
-- [Description](#description)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Smart-Contracts Deployment](#smart-contracts-deployment)
-    - [Install the dependencies](#install-the-dependencies)
-    - [Deployement](#deployement)
-    - [Coverage](#coverage)
-    - [Static Analyzer](#static-analyzer)
-  - [Config \& Client](#config--client)
-- [Acknowledgments](#acknowledgments)
-- [Use](#use)
-  - [⭐️ ... and don't forget to leave a star if you like it! ⭐️](#️--and-dont-forget-to-leave-a-star-if-you-like-it-️)
 
 ## Updates
 
